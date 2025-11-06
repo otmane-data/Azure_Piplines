@@ -1,0 +1,52 @@
+[
+    {
+        "dynamic_url" : "otmane-data/Azure_Piplines/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
+        "dynamic_folder" : "Product_Categories",
+        "Dynamic_file" : "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        "dynamic_url" : "otmane-data/Azure_Piplines/refs/heads/main/Data/AdventureWorks_Calendar.csv",
+        "dynamic_folder" : "Calendar",
+        "Dynamic_file" : "AdventureWorks_Calendar.csv"
+    },
+    {
+        "dynamic_url" : "otmane-data/Azure_Piplines/refs/heads/main/Data/AdventureWorks_Customers.csv",
+        "dynamic_folder" : "AdventureWorks_Customers",
+        "Dynamic_file" : "AdventureWorks_Customers.csv"
+    },
+    {
+        "dynamic_url" : "otmane-data/Azure_Piplines/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
+        "dynamic_folder" : "Product_Subcategories",
+        "Dynamic_file" : "AdventureWorks_Product_Subcategories.csv"
+    },
+    {
+        "dynamic_url" : "otmane-data/Azure_Piplines/refs/heads/main/Data/AdventureWorks_Products.csv",
+        "dynamic_folder" : "AdventureWorks_Products",
+        "Dynamic_file" : "AdventureWorks_Products.csv"
+    },
+    {
+        "dynamic_url" : "otmane-data/Azure_Piplines/refs/heads/main/Data/AdventureWorks_Returns.csv",
+        "dynamic_folder" : "AdventureWorks_Returns",
+        "Dynamic_file":"AdventureWorks_Returns.csv"
+    },
+    {
+        "dynamic_url" : "otmane-data/Azure_Piplines/refs/heads/main/Data/AdventureWorks_Sales_2015.csv",
+        "dynamic_folder" : "AdventureWorks_Sales_2015",
+        "Dynamic_file" : "AdventureWorks_Sales_2015.csv"
+    },
+    {
+        "dynamic_url" : "otmane-data/Azure_Piplines/refs/heads/main/Data/AdventureWorks_Sales_2016.csv",
+        "dynamic_folder" : "AdventureWorks_Sales_2016",
+        "Dynamic_file" : "AdventureWorks_Sales_2016.cvsv"
+    },
+    {
+        "dynamic_url" : "otmane-data/Azure_Piplines/refs/heads/main/Data/AdventureWorks_Sales_2017.csv",
+        "dynamic_folder" : "AdventureWorks_Sales_2017",
+        "Dynamic_file" : "AdventureWorks_Sales_2017.csv"
+    },
+    {
+        "dynamic_url" : "otmane-data/Azure_Piplines/refs/heads/main/Data/AdventureWorks_Territories.csv",
+        "dynamic_folder" : "AdventureWorks_Territories",
+        "Dynamic_file" : "AdventureWorks_Territories.csv"
+    }
+]
